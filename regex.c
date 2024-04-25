@@ -1,3 +1,9 @@
+/**
+ * @file
+ * Regex from [musl](https://musl.libc.org/).
+ * @version 1.2.5
+ * @see https://musl.libc.org/releases/musl-1.2.5.tar.gz
+ */
 #include <assert.h>
 #include <wchar.h>
 #include <wctype.h>
